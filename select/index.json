@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "For bbys",
+  "base_artist": "LANA",
+  "createdAt": "2026-02-06T06:24:44.850474Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "For bbys",
+      "artist": "LANA",
+      "has_synced": false,
+      "path": "select/pl_01_For_bbys_LANA.txt"
+    }
+  ]
+}
